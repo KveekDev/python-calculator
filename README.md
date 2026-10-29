@@ -12,4 +12,4 @@ My first programming project, developed in July 2026. This is an advanced consol
 1. Make sure you have Python installed.
 2. Clone this repository or download the calculator.py file.
 3. Run the script: python calculator.py
-   This project was built with AI assistance as part of my learning journey
+## This project was built with AI assistance as part of my learning journey
